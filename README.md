@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://smrthh.github.io/RESUME/](https://smrthh.github.io/RESUME/)
 
-- ⚡ Fun fact **I am Psychopathic 🐺 **
+- ⚡ Fun fact **I am Psychopathic 🐺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
