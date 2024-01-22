@@ -11,7 +11,10 @@
 
 - 📄 Dive to my Resume (Curriculum Vitae)  [https://smrthh.github.io/RESUME/](https://smrthh.github.io/RESUME/)
 
-- ⚡ Fun fact **I am Psychopathic 🐺**
+- 🍵 **if ( true ) {**
+**setTimeout( ( ) =>**
+**cofee.sip( )**
+**} , 10000 )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,11 +23,20 @@
 <a href="https://www.behance.net/samarth holkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="samarth holkar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nextjs" width="40" height="40"/> </p>
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZreQJ45F-hrL3Cc6yiZ5kKHJAHNhM9O6s8O9XnrK0uXH8p4B5VWUTO7Adnhdbp9PQ6Dg&usqp=CAU" alt="nodejs" width="40" height="40"/> </p>
+  
+<h3 align="left">Libraries & Frameworks:</h3>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651122498709/FQjch0sgd.png" alt="nextjs" width="40" height="40"  style="object-fit: cover; object-position: center;" /> </a>
+
+<h3 align="left"> Tools </h3>
+<a href="https://vscode.org/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" alt="vs-code" width="40" height="40" style="object-fit: cover; object-position: center;" > </a>
 
 <h3 align="left"> What can i do ? </h3>
-<p align="left"> - ◽ I can create the Pixels perfect layouts that could be look great on every devices </p>
+<p align="left"> -👋 Hi there! I'm a passionate and detail-oriented Frontend Developer with a knack for transforming ideas into visually appealing and user-friendly interfaces.</p>
+<p align="left"> -💻 My expertise lies in HTML, CSS, and JavaScript, where I leverage the latest technologies and best practices to craft seamless and responsive web experiences.</p>
+<p align="left"> - 🌐 Whether it's designing pixel-perfect layouts or optimizing performance, I thrive on creating elegant solutions that elevate user engagement</p>
+
 
 
 
