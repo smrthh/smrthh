@@ -29,13 +29,18 @@
 <h3 align="left">Libraries & Frameworks:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651122498709/FQjch0sgd.png" alt="nextjs" width="40" height="40"  style="object-fit: cover; object-position: center;" /> </a>
 
-<h3 align="left"> Tools </h3>
+<h3 align="left">Libraries for style :</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h3 align="left"> Tools: </h3>
 <a href="https://vscode.org/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" alt="vs-code" width="40" height="40" style="object-fit: cover; object-position: center;" > </a>
 
 <h3 align="left"> What can i do ? </h3>
 <p align="left"> -👋 Hi there! I'm a passionate and detail-oriented Frontend Developer with a knack for transforming ideas into visually appealing and user-friendly interfaces.</p>
 <p align="left"> -💻 My expertise lies in HTML, CSS, and JavaScript, where I leverage the latest technologies and best practices to craft seamless and responsive web experiences.</p>
 <p align="left"> - 🌐 Whether it's designing pixel-perfect layouts or optimizing performance, I thrive on creating elegant solutions that elevate user engagement</p>
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smrthh&show_icons=true&locale=en&layout=compact" alt="smrthh" /></p> --> 
 
 
 
