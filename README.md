@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samarthholkar700@gmail.com**
 
-- 📄 Dive to my Resume (Curriculum Vitae)  [https://smrthh.github.io/RESUME/](https://smrthh.github.io/RESUME/)
+- 😶 Fun fact **I am Psychopathic**
 
 - 🍵 **if ( true ) {**
 **setTimeout( ( ) =>**
